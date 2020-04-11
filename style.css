@@ -1,0 +1,13 @@
+.color{
+    background-color:#F3F3F3
+}
+
+.elements{
+    display:flex;
+    justify-content:space-evenly;
+
+}
+
+.things{
+    background-color:#2962B0
+}
